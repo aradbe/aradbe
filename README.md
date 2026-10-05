@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @aradbe
-- 👀 I’m interested in Gaming !
-- 🌱 I’m currently learning Compiter science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - aradbearad@gmail.com
+Computer Science graduate with hands-on experience building full-stack web applications using React, JavaScript, Node.js, Express.js, MongoDB and Supabase.
 
-<!---
-aradbe/aradbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Recentley completed an intensive Full Stack AI engineer Bootcamp where I built multiple end-to-end applications, including REST APIs, responsive web interfaces and AI-powered projects.
+
+During my military service in the IDF Intelligence Division I worked with aerial imagery analysis, GIS tools and data-driven decision making.
+
+I’m currently looking for a Full Stack Developer position where I can continue learning while building high-quality software with modern technologies.
